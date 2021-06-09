@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "readlink -f 0x00-shell_basics"
