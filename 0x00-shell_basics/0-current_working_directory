@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -f current_working_directory
+echo "readlink -f 0x00-shell_basics"
