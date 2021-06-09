@@ -1,1 +1,2 @@
+#!/bin/bash
 readlink -f current_working_directory
