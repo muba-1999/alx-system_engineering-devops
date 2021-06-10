@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c '%A' ./hello
+chmod u+rwx,g+x,o+wx hello
