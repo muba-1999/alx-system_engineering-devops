@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#prints the content of the current working directory
+ls ./ >> dir
+for THINGS in *
+do
+	echo $THINGS
+done
