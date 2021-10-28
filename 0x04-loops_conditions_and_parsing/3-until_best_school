@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-n=0
-until [ $n -ge 10 ]
+#printing best school 10 times using until loop
+n=1
+until [ $n -ge 11 ]
 do
 	echo "Best School"
 	n=$(( n + 1))
