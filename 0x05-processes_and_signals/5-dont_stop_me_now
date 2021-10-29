@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#kills processes
+ps -aux | grep 4-to_infinity_and_beyond
+killall 4-to_infinity_and_beyond inotifywait
