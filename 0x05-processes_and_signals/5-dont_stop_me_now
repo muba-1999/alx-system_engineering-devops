@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #kills processes
-pkill 4-to_infinity_and_beyond
+PROS=$!
+kill -SIGKILL $PROS
